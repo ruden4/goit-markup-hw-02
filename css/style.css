@@ -3,9 +3,15 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
 }
-.logo-span {
-  font-family: 'Raleway', sans-serif;
-  color: #4d5ae5;
+.page-header {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.header-nav > a {
+}
+.header-address {
+  color: #434455;
 }
 .header-logo {
   font-family: 'Raleway', sans-serif;
@@ -13,5 +19,13 @@ body {
 }
 .footer-logo {
   font-family: 'Raleway', sans-serif;
+  width: 71px;
+  height: 21px;
   color: #ffffff;
+}
+.logo-span {
+  font-family: 'Raleway', sans-serif;
+  width: 44px;
+  height: 21px;
+  color: #4d5ae5;
 }
