@@ -3,12 +3,15 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
 }
-.header-logo {
-  color: #2e2f42;
-}
 .logo-span {
+  font-family: 'Raleway', sans-serif;
   color: #4d5ae5;
 }
+.header-logo {
+  font-family: 'Raleway', sans-serif;
+  color: #2e2f42;
+}
 .footer-logo {
+  font-family: 'Raleway', sans-serif;
   color: #ffffff;
 }
