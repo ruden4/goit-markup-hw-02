@@ -1,11 +1,7 @@
 body {
   background-color: #ffffff;
-}
-.page-header {
-  background-color: #ffffff;
-}
-.page-footer {
-  background-color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
+  color: #2e2f42;
 }
 .header-logo {
   color: #2e2f42;
