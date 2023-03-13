@@ -11,50 +11,91 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
 }
-ul {
+.list {
   list-style: none;
 }
-a {
+.link {
   text-decoration: none;
 }
+/* HEADER */
 /* НАВИГАЦИЯ */
-.page-nav a {
+.page-navigation a {
   color: #2e2f42;
-  width: 48px;
-  height: 24px;
+  font-weight: 500;
+  font-size: 16px;
 }
-.page-nav a:active {
+.page-navigation a:active {
   color: #404bbf;
 }
 /* АДРЕСС */
-.header-address a {
+.header-address {
+  font-weight: 400;
+  font-size: 16px;
+}
+.address-link {
   font-style: normal;
   color: #434455;
 }
-.header-address a:active {
+.address-link:active {
   color: #404bbf;
 }
-.page-header {
+/* HERO */
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  color: #ffffff;
+  background-color: #2e2f42;
+}
+.section-title {
+  font-weight: 500;
+  font-size: 20px;
+}
+.section-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  color: #434455;
 }
-.header-nav > a {
+.hero-button {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+/* FOOTER */
+.page-footer {
+  background-color: #2e2f42;
 }
 /* ЛОГОТИП */
 .header-logo {
   font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  color: #2e2f42;
+}
+.header-logo:active {
   color: #2e2f42;
 }
 .footer-logo {
   font-family: 'Raleway', sans-serif;
-  width: 71px;
-  height: 21px;
+  font-weight: 800;
+  font-size: 18px;
+  color: #ffffff;
+}
+.footer-logo:active {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
   color: #ffffff;
 }
 .logo-span {
   font-family: 'Raleway', sans-serif;
-  width: 44px;
-  height: 21px;
+  font-weight: 800;
+  font-size: 18px;
+  color: #4d5ae5;
+}
+.logo-span:active {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
   color: #4d5ae5;
 }
