@@ -1,7 +1,21 @@
+/*logo  #4D5AE5 #F4F4FD  or  #4D5AE5 #2E2F42 */
+/*основной цвет  #2E2F42 */
+/*вторичный цвет  #434455 */
+/*цвет текста футера  #F4F4FD */
+/*секция Our Team   #F4F4FD */
+/*футер #2E2F42 */
+/*цвет кнопки  #404BBF */
+
 body {
   background-color: #ffffff;
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
 }
 .page-header {
   font-weight: 400;
