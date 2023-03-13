@@ -17,6 +17,23 @@ ul {
 a {
   text-decoration: none;
 }
+/* НАВИГАЦИЯ */
+.page-nav a {
+  color: #2e2f42;
+  width: 48px;
+  height: 24px;
+}
+.page-nav a:active {
+  color: #404bbf;
+}
+/* АДРЕСС */
+.header-address a {
+  font-style: normal;
+  color: #434455;
+}
+.header-address a:active {
+  color: #404bbf;
+}
 .page-header {
   font-weight: 400;
   font-size: 16px;
@@ -24,9 +41,7 @@ a {
 }
 .header-nav > a {
 }
-.header-address {
-  color: #434455;
-}
+/* ЛОГОТИП */
 .header-logo {
   font-family: 'Raleway', sans-serif;
   color: #2e2f42;
